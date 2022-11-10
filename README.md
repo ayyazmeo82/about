@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="Ayyaz" /> 
+	<img src="https://komarev.com/ghpvc/?username=ayyazmeo82&label=Profile%20views&color=0e75b6&style=plastic" alt="Ayyaz" /> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Ayyaz" target="_blank"/> 
 	</a>
@@ -200,7 +200,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayyazmeo82&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/ayyazmeo82"><img alt="Ayyaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayyazmeo82&custom_title=Ayyaz's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 

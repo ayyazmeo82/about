@@ -8,7 +8,6 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=ayyazmeo82&label=Profile%20views&color=0e75b6&style=plastic" alt="Ayyaz" /> 
-	<a href = "https://commits.top/pakistan.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Ayyaz" target="_blank"/> 
 	</a>
 </p>
@@ -135,6 +134,8 @@
  
 <p align="center">
   &emsp;
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=flutter&logoColor=blue"></a>
+	 &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>

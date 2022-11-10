@@ -134,8 +134,21 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=flutter&logoColor=blue"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2342A5F5.svg?style=plastic&logo=flutter&logoColor=white"></a>
 	 &emsp;
+    <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart%20-%23045697.svg?style=plastic&logo=dart&logoColor=white"></a>
+	 &emsp;
+   <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23F6820D.svg?style=plastic&logo=firebase&logoColor=white"></a>
+	 &emsp;
+   <a href="#"><img alt="Playstore" src="https://img.shields.io/badge/playstore%20-%2348ff48.svg?style=plastic&logo=googleplay&logoColor=white"></a>
+	 &emsp;
+   <a href="#"><img alt="Appstore" src="https://img.shields.io/badge/Appstore%20-%231AAFF9.svg?style=plastic&logo=appstore&logoColor=white"></a>
+	 &emsp;
+   <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24D1D.svg?style=plastic&logo=figma&logoColor=white"></a>
+	 &emsp;
+   <a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD%20-%23450034.svg?style=plastic&logo=adobe-xd&logoColor=white"></a>
+	 &emsp;
+	
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>

@@ -52,17 +52,6 @@
     </a>
   </div>
   <div>
-    <a  href="https://www.linkedin.com/in/ayyaz-shair-muhammad-58181713b/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://twitter.com/itsAyyazMeo" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://dribbble.com/ayyaz1" target="_blank">
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="example"/>
-    </a>
-  </div>
-  <div>
     <a  href="https://www.codechef.com/users/example" target="_blank">
       <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="example"/>
     </a>
@@ -79,7 +68,6 @@
 
 
 <div align="center">
-<p align="center">Let's get connected!</p>
 <a href="https://twitter.com/itsAyyazMeo">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
@@ -103,8 +91,6 @@
 </div>
 
 <br>
-
-
 
 
 ## 🛠️ My Skills

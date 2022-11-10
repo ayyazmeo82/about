@@ -211,7 +211,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayyazmeo82&layout=compact&theme=algolia" alt="Ayyaz" /></a> </p>
 
 ## :trophy: My hobby
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="center" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 -----
 Credits: [Ayyaz Shair Muhammad](https://github.com/ayyazmeo82)

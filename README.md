@@ -8,18 +8,18 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=ayyazmeo82&label=Profile%20views&color=0e75b6&style=plastic" alt="Ayyaz" /> 
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Ayyaz" target="_blank"/> 
-	</a>
+	
 </p>
 
 
 ## About me
-- :school: I am a `Senior` Flutter developer
-- :trophy: `10+` countries served
-- :technologist: `25+` mobile apps delivered
-- :trophy: `SpeedCode` participant
-- :technologist: Love to fight with new problems
-- :computer: Competitive programmer on `Fiverr` and `Upwork`
-- :nerd_face: Always `learning new things` 
+- 🏫 I am a `Senior` Flutter developer
+- 🏆 `10+` countries served
+- 🧑‍💻 `25+` mobile apps delivered
+- 🏆 `SpeedCode` participant
+- 🧑‍💻 Love to fight with new problems
+- 🧑‍💻 Competitive programmer on `Fiverr` and `Upwork`
+- 🧑‍💻 Always `learning new things` 
 
   &emsp; 
   <a href="https://www.upwork.com/freelancers/~018c3728a3a98aa458" target="_blank"> 
@@ -34,8 +34,8 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ayyazmeo82)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/ayyazmeo82)
+[![](https://github-readme-stats.vercel.app/api?username=itsAyyazdev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)]
+<p>[<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsAyyazdev&amp;theme=material-palenight" alt="">]</p>
 </div>
 
 <br>
@@ -109,7 +109,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+## 👉 Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -134,7 +134,7 @@
   </a>
 </p>
 
-### 👉 Frontend Development
+## 👉 Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -146,7 +146,7 @@
   </a> 
 </p>
 
- ### 👉 Software & Tools
+ ## 👉 Software & Tools
  
 <p align="center">
   &emsp;
@@ -177,7 +177,7 @@
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
 </p>
 
- ### 👉 IDEs
+ ## 👉 IDEs
  
 <p align="center">
   &emsp;
@@ -194,7 +194,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### 👉 Competitive Programming & Problem Solving
+ ## 👉 Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -211,7 +211,7 @@
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
- ### 👉 Operating Systems
+ ## 👉 Operating Systems
  
 <p align="center">
   &emsp;
@@ -236,7 +236,7 @@
 
 <br/>
 
-## :trophy: Git profile Trophies
+## 🏆 Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayyazmeo82&layout=compact&theme=algolia" alt="Ayyaz" /></a> </p>
 

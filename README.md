@@ -15,6 +15,8 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Senior` Flutter developer
+- :trophy: `10+` countries served
+- :technologist: `25+` mobile apps delivered
 - :trophy: `SpeedCode` participant
 - :technologist: Love to fight with new problems
 - :computer: Competitive programmer on `Fiverr` and `Upwork`

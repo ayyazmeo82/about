@@ -24,6 +24,10 @@
   <a href="https://www.upwork.com/freelancers/~018c3728a3a98aa458" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/Ayyaz%20Shair%20Muhammad-%2314A800.svg?style=plastic&logo=upwork&logoColor=white">
   </a> 
+    &emsp; 
+  <a href="https://www.fiverr.com/users/talhasardar09/seller_dashboard" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/Talha-%231CB96F.svg?style=plastic&logo=fiverr&logoColor=white">
+  </a> 
 <br>
 
 <div align="center">

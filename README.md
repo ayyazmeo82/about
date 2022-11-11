@@ -14,13 +14,16 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Senior` development mainly Flutter and React-Native
-- :trophy: `ACPC` Finalist 2021
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`
+- :school: I am a `Senior` Flutter developer
+- :trophy: `SpeedCode` participant
+- :technologist: Love to fight with new problems
+- :computer: Competitive programmer on `Fiverr` and `Upwork`
+- :nerd_face: Always `learning new things` 
 
+  &emsp; 
+  <a href="https://www.upwork.com/freelancers/~018c3728a3a98aa458" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/Ayyaz%20Shair%20Muhammad-%2314A800.svg?style=plastic&logo=upwork&logoColor=white">
+  </a> 
 <br>
 
 <div align="center">

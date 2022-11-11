@@ -98,7 +98,10 @@
 <br>
 
 
-## [<i class="fab fa-stack-overflow"></i>](https://img.shields.io/badge/-%23EC7C23.svg?style=plastic&logo=stackoverflow&logoColor=white) My Stackoverflow
+##  &emsp; 
+  <a href="" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/-%23EC7C23.svg?style=plastic&logo=stackoverflow&logoColor=white">
+  </a>  My Stackoverflow
 <a href="https://stackexchange.com/users/13991613"><img src="https://stackexchange.com/users/flair/13991613.png" width="208" height="60" alt="profile for Ayyaz meo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ayyaz meo on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 ## 🛠️ My Skills
 

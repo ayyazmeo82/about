@@ -4,7 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<br>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=ayyazmeo82&label=Profile%20views&color=0e75b6&style=plastic" alt="Ayyaz" /> 
@@ -13,7 +12,7 @@
 </p>
 
 
-## :sassy_man:  About me
+## About me
 - :school: I am a `Senior` Flutter developer
 - :trophy: `10+` countries served
 - :technologist: `25+` mobile apps delivered
@@ -103,6 +102,8 @@
 
 ## Stackoverflow
 <a href="https://stackexchange.com/users/13991613"><img src="https://stackexchange.com/users/flair/13991613.png" width="208" height="60" alt="profile for Ayyaz meo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ayyaz meo on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ayyaz-shair-muhammad-58181713b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/ayyaz-shair-muhammad-58181713b?trk=profile-badge">Ayyaz Shair Muhammad</a></div>
+              
 
               
 
@@ -244,4 +245,4 @@
 
 -----
 Credits: [Ayyaz Shair Muhammad](https://github.com/ayyazmeo82)
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>

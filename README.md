@@ -25,7 +25,7 @@
     <img alt="C" src="https://img.shields.io/badge/Ayyaz%20Shair%20Muhammad-%2314A800.svg?style=plastic&logo=upwork&logoColor=white">
   </a> 
     &emsp; 
-  <a href="https://www.fiverr.com/users/talhasardar09/seller_dashboard" target="_blank"> 
+  <a href="https://www.fiverr.com/talhasardar09" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/Talha-%231CB96F.svg?style=plastic&logo=fiverr&logoColor=white">
   </a> 
 <br>
